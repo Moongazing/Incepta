@@ -1,0 +1,6 @@
+@Moongazing.Incepta.AdminApi_HostAddress = http://localhost:5160
+
+GET {{Moongazing.Incepta.AdminApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
